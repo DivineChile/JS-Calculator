@@ -1,7 +1,7 @@
 {
   "homepage": "https://DivineChile.github.io/JS-Calculator",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages"
   },
   "dependencies": {
     "gh-pages": "^5.0.0"
